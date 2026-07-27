@@ -23,7 +23,7 @@ Projet 13 du parcours Data Analyst (OpenClassrooms) : Dans le cadre d'une candid
 
 ---
 
-## 📁 Livrables *(liste provisoire, à finaliser)*
+## 📁 Livrables
 - `README.md` → contexte, objectifs, compétences.
 - Carte mentale du projet → organisation des idées et liens entre les livrables.
 - Cahier des charges fonctionnel du portfolio → cadrage du projet (enjeux, spécifications, rétroplanning, devis).
